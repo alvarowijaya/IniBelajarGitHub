@@ -1,0 +1,5 @@
+Rencana Kehidupan:
+- Menguasai HTML
+- Menguasai CSS
+- Menguasai Javascript
+- Menguasai Boostrap
