@@ -4,3 +4,4 @@ Rencana Kehidupan:
 - Menguasai Javascript
   - JQuery
 - Menguasai Boostrap
+- Menjadi Front-End Development first
